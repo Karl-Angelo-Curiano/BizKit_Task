@@ -88,5 +88,45 @@
     "to_date": "2026-07-11",
     "total": 0,
     "status": "confirmed"
+  },
+  {
+    "id": 10,
+    "equipment_id": 1,
+    "equipment_name": "Canon DSLR Camera",
+    "customer": "test",
+    "from_date": "2026-07-14",
+    "to_date": "2026-07-17",
+    "total": 6000.0,
+    "status": "confirmed"
+  },
+  {
+    "id": 11,
+    "equipment_id": 1,
+    "equipment_name": "Canon DSLR Camera",
+    "customer": "test",
+    "from_date": "2026-07-17",
+    "to_date": "2026-07-27",
+    "total": 14850.0,
+    "status": "confirmed"
+  },
+  {
+    "id": 12,
+    "equipment_id": 2,
+    "equipment_name": "Cordless Drill",
+    "customer": "test",
+    "from_date": "2026-08-01",
+    "to_date": "2026-08-05",
+    "total": 2400.0,
+    "status": "confirmed"
+  },
+  {
+    "id": 13,
+    "equipment_id": 2,
+    "equipment_name": "Cordless Drill",
+    "customer": "test",
+    "from_date": "2026-08-05",
+    "to_date": "2026-08-14",
+    "total": 4320.0,
+    "status": "confirmed"
   }
 ]

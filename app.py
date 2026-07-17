@@ -106,7 +106,10 @@ def calculate_total(daily_rate, days):
 
     TODO (Task 2): implement.
     """
-    return 0
+    total = daily_rate * days
+    if days >= 7:
+        total *= 0.9  # Apply a 10% discount for rentals of 7 days or more
+    return total
 
 
 # ---------------------------------------------------------------------------
